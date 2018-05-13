@@ -1,5 +1,6 @@
 {
   "assignees": ["keimlink"],
   "extends": ["config:base"],
-  "labels": ["renovate"]
+  "labels": ["renovate"],
+  "prHourlyLimit": 0
 }
